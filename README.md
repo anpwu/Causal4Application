@@ -172,7 +172,7 @@ All types of contributions to this paper list is welcome. Feel free to open a Pu
 
 Contact: [Anpeng Wu](https://scholar.google.com/citations?hl=zh-CN&user=VQ4m6zQAAAAJ), PhD of Fei Wu and Kun Kuang at Zhejiang University, working on Causal & Representation & RL. 
 
-## How to Cite This Repo
+<!-- ## How to Cite This Repo
 ```bibtex
 @misc{causal2022anpwu,
   author = {Anpeng Wu},
@@ -183,4 +183,4 @@ Contact: [Anpeng Wu](https://scholar.google.com/citations?hl=zh-CN&user=VQ4m6zQA
   howpublished = {\url{https://github.com/anpwu/Causal4Application}}
 }
 ```
-
+ -->
